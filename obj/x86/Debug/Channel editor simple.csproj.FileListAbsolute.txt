@@ -1,0 +1,40 @@
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.exe
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.pdb
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.exe
+C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.pdb
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.exe
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.pdb
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.exe
+C:\Users\Steven\Documents\Visual Studio 2015\Code Snippets\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.pdb
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.exe
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.pdb
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.exe.config
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.exe
+C:\Users\Steven\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.pdb
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.exe.config
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.exe
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\bin\Debug\Channel editor simple.pdb
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csproj.AssemblyReference.cache
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csproj.GenerateResource.cache
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.csproj.CoreCompileInputs.cache
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.exe
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\Channel editor simple.pdb
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\stvnc\Documents\Visual Studio 2019\Projects\Channel editor simple\Channel editor simple\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
