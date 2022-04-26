@@ -1,9 +1,0 @@
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\bin\Release\Channel editor simple.exe
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\bin\Release\Channel editor simple.pdb
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Release\WindowsFormsApplication1.Form1.resources
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Release\GenerateResource.read.1.tlog
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Release\GenerateResource.write.1.tlog
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Release\Channel editor simple.exe
-C:\Users\Steven\documents\visual studio 2010\Projects\Channel editor simple\Channel editor simple\obj\x86\Release\Channel editor simple.pdb
